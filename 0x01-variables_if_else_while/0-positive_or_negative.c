@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /**
- * main - prints whether the randomly generated number and stored 
- * 	in the variable n is positive or negative
+ * main - prints whether the randomly generated number and stored
+ * in the variable n is positive or negative
  *
  * Return: Always 0 (Success)
  */
