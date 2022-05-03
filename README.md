@@ -6,3 +6,6 @@
 ### 212 - 0x00-hello_world
 * [project](https://alx-intranet.hbtn.io/projects/212)
 * [directory](https://github.com/girumtim/alx-low_level_programming/tree/main/0x00-hello_world)
+### 213 - 0x01-variables_if_else_while
+* [project](https://alx-intranet.hbtn.io/projects/213)
+* [directory](https://github.com/girumtim/alx-low_level_programming/tree/main/0x01-variables_if_else_while)
