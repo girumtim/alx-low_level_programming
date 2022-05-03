@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints the alphabet in lowercase and uppercase
+ * main - prints all the numbers of base 16 in lowercase
  *
  * Return: Always 0 (Success)
  */
