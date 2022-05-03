@@ -1,9 +1,14 @@
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
 #include <stdio.h>
 
-/* betty style doc for function main goes there */
+/**
+ * main - prints whether the randomly generated number and stored 
+ * 	in the variable n is positive or negative
+ *
+ * Return: Always 0 (Success)
+ */
+
 int main(void)
 {
 	int n;
