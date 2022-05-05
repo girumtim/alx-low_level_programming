@@ -9,3 +9,5 @@
 ### 213 - 0x01-variables_if_else_while
 * [project](https://alx-intranet.hbtn.io/projects/213)
 * [directory](https://github.com/girumtim/alx-low_level_programming/tree/main/0x01-variables_if_else_while)
+* [project](https://alx-intranet.hbtn.io/projects/214)
+* [directory](https://github.com/girumtim/alx-low_level_programming/tree/main/0x02-functions_nested_loops)
