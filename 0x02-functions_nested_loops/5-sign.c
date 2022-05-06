@@ -1,9 +1,9 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
  * print_sign -  prints the sign of a number
  * @n: parameter for an integer
+ *
  * Return: 1 or 0 or -1
  */
 
