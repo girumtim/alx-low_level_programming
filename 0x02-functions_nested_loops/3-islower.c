@@ -1,8 +1,9 @@
 #include "main.h"
-#include <stdio.h>
+
 /**
  * _islower -  checks for lowercase character
  * @c: parameter for a character
+ *
  * Return: 1 or 0
  */
 
