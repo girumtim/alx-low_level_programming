@@ -17,24 +17,21 @@ void times_table(void)
 		for (j = 0; j < 10; j++)
 		{
 			x = i * j;
-			if (x > 10)
+			if (j == 0)
+				_putchar('0');
+			else if (x < 10)
 			{
-				_putchar((x / 10) + '0');
+				_putchar(44);
+				print_space(2);
 				_putchar((x % 10) + '0');
 			}
 			else
 			{
+				_putchar(44);
+				print_space(1);
+				_putchar((x / 10) + '0');
 				_putchar((x % 10) + '0');
 			}
-			if (j < 9)
-			{
-				_putchar(44);
-				if (x > 10)
-				print_space(1);
-				else
-				print_space(2);
-			}
-
 		}
 		_putchar(10);
 	}
