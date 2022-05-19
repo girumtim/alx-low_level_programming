@@ -31,7 +31,7 @@ void fibonacci(int n)
  */
 int main(void)
 {
-	fibonacci(94);
+	fibonacci(91);
 	printf("\n");
 	return (0);
 }
