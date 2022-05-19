@@ -13,7 +13,7 @@ void sum_of_multiples(int x, int y, int n)
 {
 	int i = 0;
 	int sum = 0;
-	
+
 	while (i < n)
 	{
 		if ((i % x == 0) || (i % y == 0))
@@ -32,6 +32,6 @@ void sum_of_multiples(int x, int y, int n)
  */
 int main(void)
 {
-        sum_of_multiples(3, 5, 1024);
-        return (0);
+	sum_of_multiples(3, 5, 1024);
+	return (0);
 }
