@@ -8,7 +8,7 @@
 void fibonacci(int n)
 {
 	int i;
-	unsigned long f0 = 0;
+	unsigned long f0 = 1;
 	unsigned long f1 = 1;
 	unsigned long fn = 0;
 
@@ -31,7 +31,7 @@ void fibonacci(int n)
  */
 int main(void)
 {
-	fibonacci(98);
+	fibonacci(94);
 	printf("\n");
 	return (0);
 }
