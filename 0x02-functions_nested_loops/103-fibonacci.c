@@ -8,21 +8,20 @@
 
 void fibonacci_sum(int n)
 {
-	int i;
-	long f0 = 1;
-	long f1 = 1;
-	long fn = 0;
-	long sum = 0;
+	int f0 = 0;
+	int f1 = 1;
+	int fn = 0;
+	int sum = 0;
 
-	for (i = 1; i <= n; i++)
-	{
+	while (fn < n)
+	{	
 		fn = f0 + f1;
 		f0 = f1;
 		f1 = fn;
-		if (i % 2 == 0)
+		if (fn % 2 == 0)
 			sum += fn;
 	}
-	printf("%ld", sum);
+	printf("%i", sum);
 }
 
 /**
