@@ -14,7 +14,7 @@ void fibonacci_sum(int n)
 	int sum = 0;
 
 	while (fn < n)
-	{	
+	{
 		fn = f0 + f1;
 		f0 = f1;
 		f1 = fn;
