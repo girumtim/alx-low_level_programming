@@ -2,6 +2,7 @@
 
 /**
  * fibonacci - print the first 50 Fibonacci numbers
+ * @n: parameter for an integer
  *
  */
 
