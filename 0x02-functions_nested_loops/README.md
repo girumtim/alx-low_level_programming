@@ -2,7 +2,7 @@
 ## Tasks
 #### [0-putchar](https://alx-intranet.hbtn.io/projects/214#task-num-0)
 #### [1-alphabet](https://alx-intranet.hbtn.io/projects/214#task-num-1)
-#### [2-print_alphabet_x10]((https://alx-intranet.hbtn.io/projects/214#task-num-2)
+#### [2-print_alphabet_x10](https://alx-intranet.hbtn.io/projects/214#task-num-2)
 #### [3-islower](https://alx-intranet.hbtn.io/projects/214#task-num-3)
 #### [4-isalpha](https://alx-intranet.hbtn.io/projects/214#task-num-4)
 #### [5-sign](https://alx-intranet.hbtn.io/projects/214#task-num-5)
@@ -10,7 +10,7 @@
 #### [7-print_last_digit](https://alx-intranet.hbtn.io/projects/214#task-num-7)
 #### [8-24_hours](https://alx-intranet.hbtn.io/projects/214#task-num-8)
 #### [9-times_table](https://alx-intranet.hbtn.io/projects/214#task-num-9)
-#### [10-add]((https://alx-intranet.hbtn.io/projects/214#task-num-10)
+#### [10-add](https://alx-intranet.hbtn.io/projects/214#task-num-10)
 #### [11-print_to_98](https://alx-intranet.hbtn.io/projects/214#task-num-11)
 #### [100-times_table](https://alx-intranet.hbtn.io/projects/214#task-num-12)
 #### [101-natural](https://alx-intranet.hbtn.io/projects/214#task-num-13)
