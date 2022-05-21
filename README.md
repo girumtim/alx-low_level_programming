@@ -12,3 +12,6 @@
 ### 214 - 0x02-functions_nested_loops
 * [project](https://alx-intranet.hbtn.io/projects/214)
 * [directory](https://github.com/girumtim/alx-low_level_programming/tree/main/0x02-functions_nested_loops)
+### 539 - 0x03-debugging
+* [project](https://alx-intranet.hbtn.io/projects/539)
+* [directory](https://github.com/girumtim/alx-low_level_programming/tree/main/0x03-debugging)
