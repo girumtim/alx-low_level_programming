@@ -1,7 +1,10 @@
 # alx-low_level_programming
 ## Requirements
-* All codes are compiled using `gcc -gcc -Wall -Werror -Wextra -pedantic -std=gnu89`
+### C Scripts
+* All codes are compiled on Ubuntu 20.04 LTS using [gcc](https://gcc.gnu.org/) with ` -Wall -Werror -Wextra -pedantic -std=gnu89`
 * All codes are checked using [Betty](https://github.com/holbertonschool/Betty) linter (Holberton School's C coding style checker)
+### Shell Scripts
+* All scripts are tested on Ubuntu 20.04 LTS
 ## Projects
 ### 212 - 0x00-hello_world
 * [project](https://alx-intranet.hbtn.io/projects/212)
